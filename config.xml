@@ -2,7 +2,7 @@
 <widget id="com.moodle.uiassmob" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>UIASS</name>
   <description>Université Internationale Abulcasis des Sciences de la Santé</description>
-  <author href="http://www.uiass-etudiants.ma/moodle/" email="juan@moodle.com">Juan Leyva</author>
+  <author href="http://www.uiass-etudiants.ma/moodle/" email="contact@uiass.com">Juan Leyva</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
