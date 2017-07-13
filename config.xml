@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.moodle.uiassmob" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>UIASS</name>
+  <name>lasnoser</name>
   <description>Université Internationale Abulcasis des Sciences de la Santé</description>
-  <author href="https://lasnoser.com/moodle30/" email="contact@uiass.com">Juan Leyva</author>
+  <author href="https://lasnoser.com/moodle30/" email="contact@lasnoser.com">YounesMasaoudi</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
